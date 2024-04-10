@@ -1,2 +1,1 @@
-# TestModelBlob
-Initial commit
+This HTML project repository contains a simple HTML page designed as an introductory task. It serves as a practical example for beginners learning web development fundamentals. The repository is structured to provide a clear understanding of basic HTML structure, including the use of tags for headings, paragraphs, links, and images. This hands-on project aims to reinforce learning by enabling new developers to experiment with HTML code, thereby enhancing their web development skills.
